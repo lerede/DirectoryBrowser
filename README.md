@@ -1,2 +1,2 @@
 # DirectoryBrowser
-A simple substitute of IIS Direcory Browser
+A simple substitute of IIS Directory Browser
